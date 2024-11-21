@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 **Languages and Tools:** 
-
+![Static Badge](https://img.shields.io/badge/Python%20-blue?style=social&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&style=social)&nbsp;&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&style=social)&nbsp;&nbsp;
+<div class= "container" style = "display: flex">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Funny Cat" width="300"/>
+  <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Gojo" width="300"/>
+</div>
+
+
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KangDagyeom&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangDagyeom&hide=TeX&layout=compact)
