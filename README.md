@@ -15,19 +15,20 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 **Languages and Tools:** 
-![Static Badge](https://img.shields.io/badge/Python%20-blue?style=social&logo=python)
+
+![TailWind](https://img.shields.io/badge/Tailwind%20CSS-blue?style=social&logo=tailwind%20css)
+![React](https://img.shields.io/badge/React-blue?style=social&logo=React&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Vite-blue?style=social&logo=vite)
+![Python](https://img.shields.io/badge/Python%20-blue?style=social&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-black?logo=sql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&style=social)&nbsp;&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&style=social)&nbsp;&nbsp;
+
 <div class= "container" style = "display: flex">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Funny Cat" width="300"/>
   <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Gojo" width="300"/>
