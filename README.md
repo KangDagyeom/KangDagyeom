@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&style=social)&nbsp;&nbsp;
 
 <div class= "container" style = "display: flex">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Funny Cat" width="300"/>
   <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Gojo" width="300"/>
 </div>
 
